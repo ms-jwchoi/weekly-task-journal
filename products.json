@@ -1,9 +1,64 @@
 {
   "products": [
-    { "name": "이지워크 프론트", "alias": "", "note": "" },
-    { "name": "어드민", "alias": "", "note": "" },
-    { "name": "이지캡처", "alias": "", "note": "" },
-    { "name": "이지메모", "alias": "", "note": "" },
-    { "name": "플랫폼", "alias": "", "note": "" }
+    {
+      "name": "이지워크 프론트",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "어드민",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "이지캡처",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "이지메모",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "플랫폼",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "홈페이지",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "이지노트",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "이지다운",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "업무 정리",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "테스트 환경",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "인프라",
+      "alias": "",
+      "note": ""
+    },
+    {
+      "name": "이지워크 API",
+      "alias": "",
+      "note": ""
+    }
   ]
 }
