@@ -1,0 +1,3 @@
+# 앱이 제품 목록을 저장하는 도중에만 잠깐 생기는 임시 파일
+products.json.tmp
+.DS_Store
