@@ -1,3 +1,9 @@
 {
-  "products": []
+  "products": [
+    { "name": "이지워크 프론트", "alias": "", "note": "" },
+    { "name": "어드민", "alias": "", "note": "" },
+    { "name": "이지캡처", "alias": "", "note": "" },
+    { "name": "이지메모", "alias": "", "note": "" },
+    { "name": "플랫폼", "alias": "", "note": "" }
+  ]
 }
